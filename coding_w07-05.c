@@ -40,4 +40,4 @@ printf("No discount applied\n");          //แสดงข้อความไ
 
 printf("Thank you for shopping with us!\n");               //แสดงข้อความขอบคุณที่ใช้บริการ
 
-return 0;            //จบการทำงานของโปรแกรม
+return 0;  }          //จบการทำงานของโปรแกรม
